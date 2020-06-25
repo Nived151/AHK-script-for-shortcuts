@@ -3,7 +3,7 @@ My AutoHotKey script for shortcuts
 
 
 #s::
-run,C:\Users\saini\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Spotify
+run,C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Spotify
 return
 
 #c::
@@ -19,7 +19,7 @@ run,C:\Program Files (x86)\Google\Chrome\Application\chrome.exe -incognito "http
 return
 
 #w::
-run,C:\Users\saini\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\WhatsApp\WhatsApp
+run,C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\WhatsApp\WhatsApp
 return
 
 ~NumpadDot & NumpadEnter::
